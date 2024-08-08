@@ -1,13 +1,6 @@
 # Fashion-Recommendation-System
 Fashion recommendation system on myntra dataset
 
-### **Site Video:**
-[![Watch the video]](./extra/Fashion-Recommendation-Sys-screenvideo.mov)
-<video width="320" height="240" controls>
-  <source src="./extra/Fashion-Recommendation-Sys-screenvideo.mov" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ### **Dataset Overview:**
 
 > 14330 Myntra Women Fashion Items.                                                                                                                                                      
@@ -33,3 +26,30 @@ Fashion recommendation system on myntra dataset
 <img src="https://assets.myntassets.com/assets/images/17184396/2022/2/17/82e22126-0d9b-40fa-9702-23132fe3d39c1645073332435AHIKAWomenPeach-ColouredEthnicMotifsPrintedPureCottonKurtawi1.jpg" width="100" height="100">
 <img src="https://assets.myntassets.com/assets/images/9301311/2019/4/13/3fb5a41d-b86d-4d54-8a95-90b2796465091555145168199-Tissu-Women-Pink-Printed-A-Line-Kurta-2571555145166673-1.jpg" width="100" height="100">
 <img src="https://assets.myntassets.com/assets/images/16291462/2021/12/18/f3f56798-f6e1-4f0f-9484-b5e32528b6f61639826766241-DIVASTRI-Women-Lehenga-Choli-3711639826765496-1.jpg" width="100" height="100">
+
+
+---
+
+#### **Site Pages:**
+
+<img src="./extra/ss1.png" width="1200" height="500">
+
+---
+
+<img src="./extra/ss2.png" width="1200" height="500">
+
+---
+
+<img src="./extra/ss3.png" width="1200" height="500">
+
+---
+
+<img src="./extra/ss4.png" width="1200" height="500">
+
+---
+
+<img src="./extra/ss5.png" width="1200" height="500">
+
+---
+
+<img src="./extra/ss6.png" width="1200" height="500">
