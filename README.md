@@ -1,6 +1,13 @@
 # Fashion-Recommendation-System
 Fashion recommendation system on myntra dataset
 
+### **Site Video:**
+[![Watch the video]](./extra/Fashion-Recommendation-Sys-screenvideo.mov)
+<video width="320" height="240" controls>
+  <source src="./extra/Fashion-Recommendation-Sys-screenvideo.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### **Dataset Overview:**
 
 > 14330 Myntra Women Fashion Items.                                                                                                                                                      
